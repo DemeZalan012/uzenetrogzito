@@ -1,0 +1,8 @@
+C:\c# programok\Telefonalo\bin\Debug\Telefonalo.exe.config
+C:\c# programok\Telefonalo\bin\Debug\Telefonalo.exe
+C:\c# programok\Telefonalo\bin\Debug\Telefonalo.pdb
+C:\c# programok\Telefonalo\obj\Debug\Telefonalo.csproj.AssemblyReference.cache
+C:\c# programok\Telefonalo\obj\Debug\Telefonalo.csproj.CoreCompileInputs.cache
+C:\c# programok\Telefonalo\obj\Debug\Telefonalo.exe
+C:\c# programok\Telefonalo\obj\Debug\Telefonalo.pdb
+C:\c# programok\Telefonalo\obj\Debug\Telefonalo.exe.config

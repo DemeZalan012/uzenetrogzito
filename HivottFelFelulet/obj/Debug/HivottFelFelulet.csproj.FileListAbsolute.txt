@@ -1,0 +1,8 @@
+C:\c# programok\HivottFelFelulet\bin\Debug\HivottFelFelulet.exe.config
+C:\c# programok\HivottFelFelulet\bin\Debug\HivottFelFelulet.exe
+C:\c# programok\HivottFelFelulet\bin\Debug\HivottFelFelulet.pdb
+C:\c# programok\HivottFelFelulet\obj\Debug\HivottFelFelulet.csproj.AssemblyReference.cache
+C:\c# programok\HivottFelFelulet\obj\Debug\HivottFelFelulet.csproj.CoreCompileInputs.cache
+C:\c# programok\HivottFelFelulet\obj\Debug\HivottFelFelulet.exe
+C:\c# programok\HivottFelFelulet\obj\Debug\HivottFelFelulet.pdb
+C:\c# programok\HivottFelFelulet\obj\Debug\HivottFelFelulet.exe.config
